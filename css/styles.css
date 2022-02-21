@@ -11707,3 +11707,8 @@ body {
  .btn{
    margin-top: 10px;
  }
+.collapse{
+  margin-top: 2%;
+  width: 50%;
+  margin-left: 30%;
+}
